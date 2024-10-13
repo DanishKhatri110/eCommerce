@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/EduAUVICWANTDotsRegular.ttf",
+      "sha1": "cb16e27a0cbf4c1532d4bb51661a9d965080cde8"
+    },
+    {
+      "path": "assets/fonts/MontserratRegular.ttf",
+      "sha1": "bb895d19b8a1fbe1c57fc89cac5da82fdc8fdef4"
+    }
+  ]
+}
