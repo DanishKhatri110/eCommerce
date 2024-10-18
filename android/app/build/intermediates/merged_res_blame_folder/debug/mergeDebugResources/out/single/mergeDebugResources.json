@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-land-hdpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-xxxhdpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-land_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-land/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-hdpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-land-mdpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-xxxhdpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-land-xhdpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-land-xhdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-mdpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-mdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-xxhdpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-xhdpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-xhdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-xxhdpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-xhdpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-xhdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-land-ldpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-land_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-land/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/layout_launch_screen.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-mdpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-mdpi/screen.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-hdpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-land-xxhdpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-land-mdpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-land-hdpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-land-ldpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/drawable-ldpi_screen.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/drawable-ldpi/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-land-xhdpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-land-xhdpi/screen.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable/screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.8/com.my_project.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.my_project.app-debug-33:/drawable-ldpi_screen.png.flat",
+        "source": "com.my_project.app-main-35:/drawable-ldpi/screen.png"
+    }
+]
